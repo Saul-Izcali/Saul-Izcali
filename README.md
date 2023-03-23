@@ -10,6 +10,6 @@ If you are interested to get contact with me you can check out my web (It's a li
 
 <br>
 
-<div id="header" align="center" style="background: red; width: 300px;" width="300" background="red">
+<div id="header" align="center" style="background: red; width: 300px;" width=300 background="red">
   <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47nnwqfpeqo2lz500piqzotgn7lnzgo05giueyzvnd&rid=giphy.gif&ct=g" width="150"/>
 </div>
