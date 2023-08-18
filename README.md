@@ -1,4 +1,4 @@
-Hi, I'm Saul Izcali, a young software web developer really apationed who loves what he does and have one year of professional experience.
+Hi, I'm Saul Izcali, a young software web developer really apationed who loves what he does and have one year and a half of professional experience.
 
 I have a strong grasp in the basics: HTML5, CSS and JavaScript.
 My favorite stack is MEAN: MongoDB, Express, Angular and NodeJS. In some projects, I use Ionic to package the Angular aplications to create native Android and IOS apps and upload to the respective stores.
