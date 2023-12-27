@@ -2,7 +2,7 @@
 <foreignObject width="100%" height="100%">
   <div xmlns="http://www.w3.org/1999/xhtml">
 <h1 align="center">Hi 👋, I'm Saul Izcali</h1>
-<h3 align="center">A young software web developer really apationed who loves what he does and have one year and a half of professional experience.</h3>
+<h3 align="center">A young software web developer really apationed who loves what he does and have two years of professional experience.</h3>
 <p  align="center">I start to programming when I was 15, since then I haven't stopped and just get more involved into this world.
 
 <p style="text-align: center;">I love programming because I can use all my creativity for solve a problem, my abstracts ideas take shape in code and a software, allways found something that challenge me, give the felling that I can realize any personal project for automate or ease some process, or just for fun</p>
