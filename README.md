@@ -7,7 +7,7 @@
 
 <p style="text-align: center;">I love programming because I can use all my creativity for solve a problem, my abstracts ideas take shape in code and a software, allways found something that challenge me, give the felling that I can realize any personal project for automate or ease some process, or just for fun</p>
 
-<p  align="center">I three two years of professional experience as web developer, you can know more of my experience, schoolege and projects that I have done or participated visiting my page (It's a little outdated and old, but I'm working in that) <a href="https://saul-izcali-l.web.app"  target="_blank" style="height: 40px; width: 120px; color: white; background-color: rgb(56, 56, 56); border-radius: 8px; padding: 4px; margin: 6px;">Click me</a>
+<p  align="center">I three years of professional experience as web developer, you can know more of my experience, schoolege and projects that I have done or participated visiting my page <a href="https://saul-izcali-l.web.app"  target="_blank" style="height: 40px; width: 120px; color: white; background-color: rgb(56, 56, 56); border-radius: 8px; padding: 4px; margin: 6px;">Click me</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
